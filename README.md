@@ -1,4 +1,7 @@
-# AI_Phase1
+<img src="https://kriyatec.com/wp-content/uploads/2020/05/chatbot2.jpeg">
+
+
+
 # AI_Phase wise project submission
 # Create a chatbot in python
 
@@ -45,7 +48,7 @@ Before you begin, ensure you have the following dependencies installed:
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/diabetes-chatbot.git
+git clone 
 
 Change to the project directory:
 
