@@ -67,7 +67,7 @@ To run the chatbot, follow these steps:
 
 Navigate to the chatbot directory:
 
-cd chatbot
+cd chatbot https://github.com/Mukesh4058/Createing-a-Chatbot-in-Python.git
 
 Run the chatbot application:
 
