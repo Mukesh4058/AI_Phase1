@@ -91,7 +91,7 @@ We welcome contributions from the community. If you have any ideas, bug fixes, o
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Thank you for using our AI-Powered Diabetes Prediction Chatbot! If you have any questions or need further assistance, feel free to contact us at contact@example.com.
+Thank you for using our AI-Powered Diabetes Prediction Chatbot! If you have any questions or need further assistance, feel free to contact us at bujimukesh7@.com.
 
 
 This README provides a clear structure for users to understand and use your AI-powered diabetes prediction chatbot. Make sure to replace the placeholders with your actual project details, and ensure that your code and project structure are organized accordingly.
