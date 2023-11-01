@@ -48,7 +48,7 @@ Before you begin, ensure you have the following dependencies installed:
 
 Clone this repository to your local machine:
 
-git clone 
+git clone  https://github.com/Mukesh4058/Createing-a-Chatbot-in-Python.git
 
 Change to the project directory:
 
@@ -67,7 +67,7 @@ To run the chatbot, follow these steps:
 
 Navigate to the chatbot directory:
 
-cd chatbot https://github.com/Mukesh4058/Createing-a-Chatbot-in-Python.git
+cd chatbot 
 
 Run the chatbot application:
 
